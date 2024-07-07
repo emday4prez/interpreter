@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"monkey/repl"
 	"os"
 	"os/user"
+
+	"github.com/emday4prez/interpreter/repl"
 )
 
 func main() {
